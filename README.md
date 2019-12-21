@@ -5,3 +5,6 @@ replaced relevant `.png` files with `.xpm` files, the rest is kept for convenien
 
 ### usage:
 copy to `~/.themes` or `/usr/share/themes` then select it on window manager configs.
+
+### Screenshot:
+![Screenshot](screenshot.png)
